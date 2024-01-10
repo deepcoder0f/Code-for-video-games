@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>Website</title>
+<h1>Heading</h1>
+<p>Paragraph</p>
+<p><b>Bold text</b></p>
+<p><u>Underlined text</u></p>
+</body>
+</html>
